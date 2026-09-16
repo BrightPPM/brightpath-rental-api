@@ -26,9 +26,13 @@ agent assignment, and it changes constantly. Link and column meanings are in
 
 ## Hard rules for any Quo automation
 
-1. Never text a Bright Path number or the owner's test cell. The list is in
-   `docs/team-and-inboxes.md`.
+1. Never send a **follow-up** to a Bright Path number or the owner's test
+   cell. The list is in `docs/team-and-inboxes.md`. A deliberate lead handoff
+   to an assigned agent is the one exception, and never applies to the test
+   cell.
 2. Never send the same follow-up to the same person twice. Re-read the full
    Quo thread before sending anything.
 3. Never reply to solicitation.
 4. Stop after three unanswered outbound messages to one person.
+5. Never invent an agent, a rent, or a listing link. If a property is not in
+   the Listing Tracker, flag it for a human instead.
