@@ -39,6 +39,7 @@ they appear as ordinary conversations.
     +16266999776  Executive Line
     +19096555955  Chris Martinez Main Line
     +16264881905  Rob Galvan (cell)
+    +16266780656  Owner personal cell (test number)
 
 ## Solicitation filter
 
@@ -55,11 +56,13 @@ marketing spam. When ambiguous, skip and flag for human review.
 ## Message template
 
 > Hi! This is Bright Path Property Management following up on your rental
-> inquiry — did we get you what you needed? If not, I'm happy to help. Could I
+> inquiry. Did we get you what you needed? If not, I'm happy to help. Could I
 > also get your name and best email so we can send you matching listings?
 
 Adapts per recipient: uses a known name, references the property when known,
 and is written in Spanish when the thread is in Spanish.
+
+No STOP or opt-out language is appended. No em dashes.
 
 ## Going live
 
